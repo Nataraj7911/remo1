@@ -1,0 +1,20 @@
+--2022-11-23 12:43:04--  https://backup-edureka.s3.ap-south-1.amazonaws.com/sample-project.zip
+Resolving backup-edureka.s3.ap-south-1.amazonaws.com (backup-edureka.s3.ap-south-1.amazonaws.com)... 52.219.160.18
+Connecting to backup-edureka.s3.ap-south-1.amazonaws.com (backup-edureka.s3.ap-south-1.amazonaws.com)|52.219.160.18|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 473623 (463K) [application/octet-stream]
+Saving to: ‘sample-project.zip’
+
+     0K .......... .......... .......... .......... .......... 10%  197K 2s
+    50K .......... .......... .......... .......... .......... 21% 1.17M 1s
+   100K .......... .......... .......... .......... .......... 32%  536K 1s
+   150K .......... .......... .......... .......... .......... 43%  269M 1s
+   200K .......... .......... .......... .......... .......... 54%  418K 0s
+   250K .......... .......... .......... .......... .......... 64% 6.70M 0s
+   300K .......... .......... .......... .......... .......... 75% 60.3M 0s
+   350K .......... .......... .......... .......... .......... 86% 58.1M 0s
+   400K .......... .......... .......... .......... .......... 97% 1.50M 0s
+   450K .......... ..                                         100%  420M=0.6s
+
+2022-11-23 12:43:05 (840 KB/s) - ‘sample-project.zip’ saved [473623/473623]
+
